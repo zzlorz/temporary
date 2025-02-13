@@ -1,0 +1,22 @@
+{
+  "name": "temporary",
+  "version": "1.0.0",
+  "description": "temporary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzlorz/temporary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzlorz/temporary/issues"
+  },
+  "homepage": "https://github.com/zzlorz/temporary#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
